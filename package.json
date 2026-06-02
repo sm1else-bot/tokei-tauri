@@ -1,0 +1,16 @@
+{
+  "name": "tokei-tauri",
+  "version": "0.1.3",
+  "description": "A desktop clock that shows time as percentages of your minute, hour, day, week, month, year, and life.",
+  "author": "Jessenth",
+  "homepage": "https://jessenth.com",
+  "scripts": {
+    "dev": "tauri dev",
+    "start": "tauri dev",
+    "build": "tauri build",
+    "dist": "tauri build"
+  },
+  "devDependencies": {
+    "@tauri-apps/cli": "^2.9.2"
+  }
+}

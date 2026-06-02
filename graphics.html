@@ -1,0 +1,99 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Tokei Cover</title>
+  <style>
+    :root {
+      --bg: #050807;
+      --text: #caffdf;
+      --muted: #79a88d;
+      --mint: #56ffa9;
+      --blue: #7aa7ff;
+      font-family: "Segoe UI", system-ui, sans-serif;
+    }
+
+    * { box-sizing: border-box; }
+
+    html,
+    body {
+      margin: 0;
+      min-height: 100%;
+      background: var(--bg);
+      color: var(--text);
+    }
+
+    body {
+      display: grid;
+      place-items: center;
+      padding: 32px;
+    }
+
+    .cover {
+      width: min(1280px, calc(100vw - 64px));
+      aspect-ratio: 16 / 9;
+      position: relative;
+      overflow: hidden;
+      border-radius: 28px;
+      background: #050807;
+    }
+
+    .content {
+      position: absolute;
+      inset: 0;
+      display: grid;
+      place-items: center;
+      text-align: center;
+      padding: 96px;
+    }
+
+    .mark {
+      width: 86px;
+      height: 86px;
+      margin: 0 auto 32px;
+      border-radius: 26px;
+      background: conic-gradient(from 180deg, var(--mint), var(--blue), #fff, var(--mint));
+    }
+
+    h1 {
+      margin: 0;
+      font-size: 122px;
+      line-height: .9;
+      letter-spacing: 0;
+      font-weight: 760;
+    }
+
+    p {
+      margin: 26px auto 0;
+      max-width: 670px;
+      color: var(--muted);
+      font-size: 27px;
+      line-height: 1.36;
+    }
+
+    .site {
+      position: absolute;
+      left: 0;
+      right: 0;
+      bottom: 64px;
+      text-align: center;
+      color: rgba(121, 168, 141, .55);
+      font-family: Consolas, "Cascadia Mono", monospace;
+      font-size: 17px;
+    }
+  </style>
+</head>
+<body>
+  <main class="cover" aria-label="Tokei cover art">
+    <section class="content">
+      <div>
+        <div class="mark" aria-hidden="true"></div>
+        <h1>Tokei</h1>
+        <p>A different take on time, with a side of existential dread on your plate.</p>
+      </div>
+    </section>
+    <div class="site">jessenth.com</div>
+  </main>
+</body>
+</html>

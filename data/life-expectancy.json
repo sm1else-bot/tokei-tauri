@@ -1,0 +1,1743 @@
+{
+  "source": "World Bank API, indicator SP.DYN.LE00.IN (Life expectancy at birth, total years)",
+  "sourceUrl": "https://data.worldbank.org/indicator/SP.DYN.LE00.IN",
+  "generatedAt": "2026-05-31T00:15:59.011Z",
+  "countries": [
+    {
+      "code": "AFG",
+      "iso2": "AF",
+      "name": "Afghanistan",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 66.29
+    },
+    {
+      "code": "ALB",
+      "iso2": "AL",
+      "name": "Albania",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 79.78
+    },
+    {
+      "code": "DZA",
+      "iso2": "DZ",
+      "name": "Algeria",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 76.47
+    },
+    {
+      "code": "ASM",
+      "iso2": "AS",
+      "name": "American Samoa",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 72.99
+    },
+    {
+      "code": "AND",
+      "iso2": "AD",
+      "name": "Andorra",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 84.19
+    },
+    {
+      "code": "AGO",
+      "iso2": "AO",
+      "name": "Angola",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 64.81
+    },
+    {
+      "code": "ATG",
+      "iso2": "AG",
+      "name": "Antigua and Barbuda",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 77.77
+    },
+    {
+      "code": "ARG",
+      "iso2": "AR",
+      "name": "Argentina",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 77.54
+    },
+    {
+      "code": "ARM",
+      "iso2": "AM",
+      "name": "Armenia",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 78.32
+    },
+    {
+      "code": "ABW",
+      "iso2": "AW",
+      "name": "Aruba",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 76.5
+    },
+    {
+      "code": "AUS",
+      "iso2": "AU",
+      "name": "Australia",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 83.05
+    },
+    {
+      "code": "AUT",
+      "iso2": "AT",
+      "name": "Austria",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 82
+    },
+    {
+      "code": "AZE",
+      "iso2": "AZ",
+      "name": "Azerbaijan",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 74.58
+    },
+    {
+      "code": "BHS",
+      "iso2": "BS",
+      "name": "Bahamas, The",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 74.71
+    },
+    {
+      "code": "BHR",
+      "iso2": "BH",
+      "name": "Bahrain",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 81.42
+    },
+    {
+      "code": "BGD",
+      "iso2": "BD",
+      "name": "Bangladesh",
+      "region": "South Asia",
+      "year": 2024,
+      "expectancy": 74.93
+    },
+    {
+      "code": "BRB",
+      "iso2": "BB",
+      "name": "Barbados",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 76.33
+    },
+    {
+      "code": "BLR",
+      "iso2": "BY",
+      "name": "Belarus",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 74.37
+    },
+    {
+      "code": "BEL",
+      "iso2": "BE",
+      "name": "Belgium",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 82.3
+    },
+    {
+      "code": "BLZ",
+      "iso2": "BZ",
+      "name": "Belize",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 73.74
+    },
+    {
+      "code": "BEN",
+      "iso2": "BJ",
+      "name": "Benin",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 60.96
+    },
+    {
+      "code": "BMU",
+      "iso2": "BM",
+      "name": "Bermuda",
+      "region": "North America",
+      "year": 2024,
+      "expectancy": 82.49
+    },
+    {
+      "code": "BTN",
+      "iso2": "BT",
+      "name": "Bhutan",
+      "region": "South Asia",
+      "year": 2024,
+      "expectancy": 73.26
+    },
+    {
+      "code": "BOL",
+      "iso2": "BO",
+      "name": "Bolivia",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 68.74
+    },
+    {
+      "code": "BIH",
+      "iso2": "BA",
+      "name": "Bosnia and Herzegovina",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 78.04
+    },
+    {
+      "code": "BWA",
+      "iso2": "BW",
+      "name": "Botswana",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 69.29
+    },
+    {
+      "code": "BRA",
+      "iso2": "BR",
+      "name": "Brazil",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 76.02
+    },
+    {
+      "code": "VGB",
+      "iso2": "VG",
+      "name": "British Virgin Islands",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 77.43
+    },
+    {
+      "code": "BRN",
+      "iso2": "BN",
+      "name": "Brunei Darussalam",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 75.5
+    },
+    {
+      "code": "BGR",
+      "iso2": "BG",
+      "name": "Bulgaria",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 75.76
+    },
+    {
+      "code": "BFA",
+      "iso2": "BF",
+      "name": "Burkina Faso",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 61.29
+    },
+    {
+      "code": "BDI",
+      "iso2": "BI",
+      "name": "Burundi",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 63.82
+    },
+    {
+      "code": "CPV",
+      "iso2": "CV",
+      "name": "Cabo Verde",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 76.22
+    },
+    {
+      "code": "KHM",
+      "iso2": "KH",
+      "name": "Cambodia",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 70.82
+    },
+    {
+      "code": "CMR",
+      "iso2": "CM",
+      "name": "Cameroon",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 63.97
+    },
+    {
+      "code": "CAN",
+      "iso2": "CA",
+      "name": "Canada",
+      "region": "North America",
+      "year": 2024,
+      "expectancy": 82.11
+    },
+    {
+      "code": "CYM",
+      "iso2": "KY",
+      "name": "Cayman Islands",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 80.54
+    },
+    {
+      "code": "CAF",
+      "iso2": "CF",
+      "name": "Central African Republic",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 57.67
+    },
+    {
+      "code": "TCD",
+      "iso2": "TD",
+      "name": "Chad",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 55.24
+    },
+    {
+      "code": "CHI",
+      "iso2": "JG",
+      "name": "Channel Islands",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 81.2
+    },
+    {
+      "code": "CHL",
+      "iso2": "CL",
+      "name": "Chile",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 81.36
+    },
+    {
+      "code": "CHN",
+      "iso2": "CN",
+      "name": "China",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 78.02
+    },
+    {
+      "code": "COL",
+      "iso2": "CO",
+      "name": "Colombia",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 77.91
+    },
+    {
+      "code": "COM",
+      "iso2": "KM",
+      "name": "Comoros",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 67.02
+    },
+    {
+      "code": "COD",
+      "iso2": "CD",
+      "name": "Congo, Dem. Rep.",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 62.07
+    },
+    {
+      "code": "COG",
+      "iso2": "CG",
+      "name": "Congo, Rep.",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 66
+    },
+    {
+      "code": "CRI",
+      "iso2": "CR",
+      "name": "Costa Rica",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 81
+    },
+    {
+      "code": "CIV",
+      "iso2": "CI",
+      "name": "Cote d'Ivoire",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 62.11
+    },
+    {
+      "code": "HRV",
+      "iso2": "HR",
+      "name": "Croatia",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 78.93
+    },
+    {
+      "code": "CUB",
+      "iso2": "CU",
+      "name": "Cuba",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 78.26
+    },
+    {
+      "code": "CUW",
+      "iso2": "CW",
+      "name": "Curacao",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 76.99
+    },
+    {
+      "code": "CYP",
+      "iso2": "CY",
+      "name": "Cyprus",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 81.82
+    },
+    {
+      "code": "CZE",
+      "iso2": "CZ",
+      "name": "Czechia",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 79.98
+    },
+    {
+      "code": "DNK",
+      "iso2": "DK",
+      "name": "Denmark",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 82.25
+    },
+    {
+      "code": "DJI",
+      "iso2": "DJ",
+      "name": "Djibouti",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 66.2
+    },
+    {
+      "code": "DMA",
+      "iso2": "DM",
+      "name": "Dominica",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 71.29
+    },
+    {
+      "code": "DOM",
+      "iso2": "DO",
+      "name": "Dominican Republic",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 73.87
+    },
+    {
+      "code": "ECU",
+      "iso2": "EC",
+      "name": "Ecuador",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 77.58
+    },
+    {
+      "code": "EGY",
+      "iso2": "EG",
+      "name": "Egypt, Arab Rep.",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 71.81
+    },
+    {
+      "code": "SLV",
+      "iso2": "SV",
+      "name": "El Salvador",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 72.3
+    },
+    {
+      "code": "GNQ",
+      "iso2": "GQ",
+      "name": "Equatorial Guinea",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 63.91
+    },
+    {
+      "code": "ERI",
+      "iso2": "ER",
+      "name": "Eritrea",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 68.89
+    },
+    {
+      "code": "EST",
+      "iso2": "EE",
+      "name": "Estonia",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 79.3
+    },
+    {
+      "code": "SWZ",
+      "iso2": "SZ",
+      "name": "Eswatini",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 64.26
+    },
+    {
+      "code": "ETH",
+      "iso2": "ET",
+      "name": "Ethiopia",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 67.6
+    },
+    {
+      "code": "FRO",
+      "iso2": "FO",
+      "name": "Faroe Islands",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 83.08
+    },
+    {
+      "code": "FJI",
+      "iso2": "FJ",
+      "name": "Fiji",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 67.46
+    },
+    {
+      "code": "FIN",
+      "iso2": "FI",
+      "name": "Finland",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 82.34
+    },
+    {
+      "code": "FRA",
+      "iso2": "FR",
+      "name": "France",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 82.98
+    },
+    {
+      "code": "PYF",
+      "iso2": "PF",
+      "name": "French Polynesia",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 84.19
+    },
+    {
+      "code": "GAB",
+      "iso2": "GA",
+      "name": "Gabon",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 68.51
+    },
+    {
+      "code": "GMB",
+      "iso2": "GM",
+      "name": "Gambia, The",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 66.06
+    },
+    {
+      "code": "GEO",
+      "iso2": "GE",
+      "name": "Georgia",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 74.66
+    },
+    {
+      "code": "DEU",
+      "iso2": "DE",
+      "name": "Germany",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 80.79
+    },
+    {
+      "code": "GHA",
+      "iso2": "GH",
+      "name": "Ghana",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 65.69
+    },
+    {
+      "code": "GIB",
+      "iso2": "GI",
+      "name": "Gibraltar",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 83.63
+    },
+    {
+      "code": "GRC",
+      "iso2": "GR",
+      "name": "Greece",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 81.84
+    },
+    {
+      "code": "GRL",
+      "iso2": "GL",
+      "name": "Greenland",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 70.27
+    },
+    {
+      "code": "GRD",
+      "iso2": "GD",
+      "name": "Grenada",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 75.37
+    },
+    {
+      "code": "GUM",
+      "iso2": "GU",
+      "name": "Guam",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 77.42
+    },
+    {
+      "code": "GTM",
+      "iso2": "GT",
+      "name": "Guatemala",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 72.75
+    },
+    {
+      "code": "GIN",
+      "iso2": "GN",
+      "name": "Guinea",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 60.9
+    },
+    {
+      "code": "GNB",
+      "iso2": "GW",
+      "name": "Guinea-Bissau",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 64.25
+    },
+    {
+      "code": "GUY",
+      "iso2": "GY",
+      "name": "Guyana",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 70.32
+    },
+    {
+      "code": "HTI",
+      "iso2": "HT",
+      "name": "Haiti",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 65.12
+    },
+    {
+      "code": "HND",
+      "iso2": "HN",
+      "name": "Honduras",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 73.04
+    },
+    {
+      "code": "HKG",
+      "iso2": "HK",
+      "name": "Hong Kong SAR, China",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 85.39
+    },
+    {
+      "code": "HUN",
+      "iso2": "HU",
+      "name": "Hungary",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 76.72
+    },
+    {
+      "code": "ISL",
+      "iso2": "IS",
+      "name": "Iceland",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 82.81
+    },
+    {
+      "code": "IND",
+      "iso2": "IN",
+      "name": "India",
+      "region": "South Asia",
+      "year": 2024,
+      "expectancy": 72.23
+    },
+    {
+      "code": "IDN",
+      "iso2": "ID",
+      "name": "Indonesia",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 71.29
+    },
+    {
+      "code": "IRN",
+      "iso2": "IR",
+      "name": "Iran, Islamic Rep.",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 77.85
+    },
+    {
+      "code": "IRQ",
+      "iso2": "IQ",
+      "name": "Iraq",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 72.42
+    },
+    {
+      "code": "IRL",
+      "iso2": "IE",
+      "name": "Ireland",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 83.01
+    },
+    {
+      "code": "IMN",
+      "iso2": "IM",
+      "name": "Isle of Man",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 81.09
+    },
+    {
+      "code": "ISR",
+      "iso2": "IL",
+      "name": "Israel",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 83.2
+    },
+    {
+      "code": "ITA",
+      "iso2": "IT",
+      "name": "Italy",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 83.95
+    },
+    {
+      "code": "JAM",
+      "iso2": "JM",
+      "name": "Jamaica",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 71.61
+    },
+    {
+      "code": "JPN",
+      "iso2": "JP",
+      "name": "Japan",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 84.04
+    },
+    {
+      "code": "JOR",
+      "iso2": "JO",
+      "name": "Jordan",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 77.98
+    },
+    {
+      "code": "KAZ",
+      "iso2": "KZ",
+      "name": "Kazakhstan",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 74.53
+    },
+    {
+      "code": "KEN",
+      "iso2": "KE",
+      "name": "Kenya",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 63.83
+    },
+    {
+      "code": "KIR",
+      "iso2": "KI",
+      "name": "Kiribati",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 66.6
+    },
+    {
+      "code": "PRK",
+      "iso2": "KP",
+      "name": "Korea, Dem. People's Rep.",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 73.74
+    },
+    {
+      "code": "KOR",
+      "iso2": "KR",
+      "name": "Korea, Rep.",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 83.63
+    },
+    {
+      "code": "XKX",
+      "iso2": "XK",
+      "name": "Kosovo",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 78.22
+    },
+    {
+      "code": "KWT",
+      "iso2": "KW",
+      "name": "Kuwait",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 84.58
+    },
+    {
+      "code": "KGZ",
+      "iso2": "KG",
+      "name": "Kyrgyz Republic",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 72.4
+    },
+    {
+      "code": "LAO",
+      "iso2": "LA",
+      "name": "Lao PDR",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 69.22
+    },
+    {
+      "code": "LVA",
+      "iso2": "LV",
+      "name": "Latvia",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 76.43
+    },
+    {
+      "code": "LBN",
+      "iso2": "LB",
+      "name": "Lebanon",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 77.94
+    },
+    {
+      "code": "LSO",
+      "iso2": "LS",
+      "name": "Lesotho",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 57.8
+    },
+    {
+      "code": "LBR",
+      "iso2": "LR",
+      "name": "Liberia",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 62.32
+    },
+    {
+      "code": "LBY",
+      "iso2": "LY",
+      "name": "Libya",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 71.12
+    },
+    {
+      "code": "LIE",
+      "iso2": "LI",
+      "name": "Liechtenstein",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 84.2
+    },
+    {
+      "code": "LTU",
+      "iso2": "LT",
+      "name": "Lithuania",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 77.2
+    },
+    {
+      "code": "LUX",
+      "iso2": "LU",
+      "name": "Luxembourg",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 83.2
+    },
+    {
+      "code": "MAC",
+      "iso2": "MO",
+      "name": "Macao SAR, China",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 83.33
+    },
+    {
+      "code": "MDG",
+      "iso2": "MG",
+      "name": "Madagascar",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 63.84
+    },
+    {
+      "code": "MWI",
+      "iso2": "MW",
+      "name": "Malawi",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 67.56
+    },
+    {
+      "code": "MYS",
+      "iso2": "MY",
+      "name": "Malaysia",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 76.82
+    },
+    {
+      "code": "MDV",
+      "iso2": "MV",
+      "name": "Maldives",
+      "region": "South Asia",
+      "year": 2024,
+      "expectancy": 81.28
+    },
+    {
+      "code": "MLI",
+      "iso2": "ML",
+      "name": "Mali",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 60.67
+    },
+    {
+      "code": "MLT",
+      "iso2": "MT",
+      "name": "Malta",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 82.96
+    },
+    {
+      "code": "MHL",
+      "iso2": "MH",
+      "name": "Marshall Islands",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 67.08
+    },
+    {
+      "code": "MRT",
+      "iso2": "MR",
+      "name": "Mauritania",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 68.71
+    },
+    {
+      "code": "MUS",
+      "iso2": "MU",
+      "name": "Mauritius",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 73.79
+    },
+    {
+      "code": "MEX",
+      "iso2": "MX",
+      "name": "Mexico",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 75.26
+    },
+    {
+      "code": "FSM",
+      "iso2": "FM",
+      "name": "Micronesia, Fed. Sts.",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 67.36
+    },
+    {
+      "code": "MDA",
+      "iso2": "MD",
+      "name": "Moldova",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 71.33
+    },
+    {
+      "code": "MCO",
+      "iso2": "MC",
+      "name": "Monaco",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 86.5
+    },
+    {
+      "code": "MNG",
+      "iso2": "MN",
+      "name": "Mongolia",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 72.4
+    },
+    {
+      "code": "MNE",
+      "iso2": "ME",
+      "name": "Montenegro",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 77.89
+    },
+    {
+      "code": "MAR",
+      "iso2": "MA",
+      "name": "Morocco",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 75.49
+    },
+    {
+      "code": "MOZ",
+      "iso2": "MZ",
+      "name": "Mozambique",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 63.8
+    },
+    {
+      "code": "MMR",
+      "iso2": "MM",
+      "name": "Myanmar",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 67.09
+    },
+    {
+      "code": "NAM",
+      "iso2": "NA",
+      "name": "Namibia",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 67.52
+    },
+    {
+      "code": "NRU",
+      "iso2": "NR",
+      "name": "Nauru",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 62.28
+    },
+    {
+      "code": "NPL",
+      "iso2": "NP",
+      "name": "Nepal",
+      "region": "South Asia",
+      "year": 2024,
+      "expectancy": 70.64
+    },
+    {
+      "code": "NLD",
+      "iso2": "NL",
+      "name": "Netherlands",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 81.97
+    },
+    {
+      "code": "NCL",
+      "iso2": "NC",
+      "name": "New Caledonia",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 78.92
+    },
+    {
+      "code": "NZL",
+      "iso2": "NZ",
+      "name": "New Zealand",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 82.01
+    },
+    {
+      "code": "NIC",
+      "iso2": "NI",
+      "name": "Nicaragua",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 75.1
+    },
+    {
+      "code": "NER",
+      "iso2": "NE",
+      "name": "Niger",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 61.43
+    },
+    {
+      "code": "NGA",
+      "iso2": "NG",
+      "name": "Nigeria",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 54.63
+    },
+    {
+      "code": "MKD",
+      "iso2": "MK",
+      "name": "North Macedonia",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 76.62
+    },
+    {
+      "code": "MNP",
+      "iso2": "MP",
+      "name": "Northern Mariana Islands",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 78.95
+    },
+    {
+      "code": "NOR",
+      "iso2": "NO",
+      "name": "Norway",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 83.16
+    },
+    {
+      "code": "OMN",
+      "iso2": "OM",
+      "name": "Oman",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 80.25
+    },
+    {
+      "code": "PAK",
+      "iso2": "PK",
+      "name": "Pakistan",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 67.8
+    },
+    {
+      "code": "PLW",
+      "iso2": "PW",
+      "name": "Palau",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 69.38
+    },
+    {
+      "code": "PAN",
+      "iso2": "PA",
+      "name": "Panama",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 79.78
+    },
+    {
+      "code": "PNG",
+      "iso2": "PG",
+      "name": "Papua New Guinea",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 66.26
+    },
+    {
+      "code": "PRY",
+      "iso2": "PY",
+      "name": "Paraguay",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 73.98
+    },
+    {
+      "code": "PER",
+      "iso2": "PE",
+      "name": "Peru",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 77.94
+    },
+    {
+      "code": "PHL",
+      "iso2": "PH",
+      "name": "Philippines",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 69.95
+    },
+    {
+      "code": "POL",
+      "iso2": "PL",
+      "name": "Poland",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 78.41
+    },
+    {
+      "code": "PRT",
+      "iso2": "PT",
+      "name": "Portugal",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 82.38
+    },
+    {
+      "code": "PRI",
+      "iso2": "PR",
+      "name": "Puerto Rico (US)",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 81.9
+    },
+    {
+      "code": "QAT",
+      "iso2": "QA",
+      "name": "Qatar",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 82.52
+    },
+    {
+      "code": "ROU",
+      "iso2": "RO",
+      "name": "Romania",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 76.46
+    },
+    {
+      "code": "RUS",
+      "iso2": "RU",
+      "name": "Russian Federation",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 73.44
+    },
+    {
+      "code": "RWA",
+      "iso2": "RW",
+      "name": "Rwanda",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 68.02
+    },
+    {
+      "code": "WSM",
+      "iso2": "WS",
+      "name": "Samoa",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 71.83
+    },
+    {
+      "code": "SMR",
+      "iso2": "SM",
+      "name": "San Marino",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 85.82
+    },
+    {
+      "code": "STP",
+      "iso2": "ST",
+      "name": "Sao Tome and Principe",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 69.91
+    },
+    {
+      "code": "SAU",
+      "iso2": "SA",
+      "name": "Saudi Arabia",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 78.98
+    },
+    {
+      "code": "SEN",
+      "iso2": "SN",
+      "name": "Senegal",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 68.92
+    },
+    {
+      "code": "SRB",
+      "iso2": "RS",
+      "name": "Serbia",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 75.97
+    },
+    {
+      "code": "SYC",
+      "iso2": "SC",
+      "name": "Seychelles",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 76.3
+    },
+    {
+      "code": "SLE",
+      "iso2": "SL",
+      "name": "Sierra Leone",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 61.96
+    },
+    {
+      "code": "SGP",
+      "iso2": "SG",
+      "name": "Singapore",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 83.35
+    },
+    {
+      "code": "SXM",
+      "iso2": "SX",
+      "name": "Sint Maarten (Dutch part)",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 76.53
+    },
+    {
+      "code": "SVK",
+      "iso2": "SK",
+      "name": "Slovak Republic",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 78.37
+    },
+    {
+      "code": "SVN",
+      "iso2": "SI",
+      "name": "Slovenia",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 82.29
+    },
+    {
+      "code": "SLB",
+      "iso2": "SB",
+      "name": "Solomon Islands",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 70.69
+    },
+    {
+      "code": "SOM",
+      "iso2": "SO",
+      "name": "Somalia, Fed. Rep.",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 58.97
+    },
+    {
+      "code": "ZAF",
+      "iso2": "ZA",
+      "name": "South Africa",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 66.31
+    },
+    {
+      "code": "SSD",
+      "iso2": "SS",
+      "name": "South Sudan",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 57.74
+    },
+    {
+      "code": "ESP",
+      "iso2": "ES",
+      "name": "Spain",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 83.89
+    },
+    {
+      "code": "LKA",
+      "iso2": "LK",
+      "name": "Sri Lanka",
+      "region": "South Asia",
+      "year": 2024,
+      "expectancy": 77.67
+    },
+    {
+      "code": "KNA",
+      "iso2": "KN",
+      "name": "St. Kitts and Nevis",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 72.28
+    },
+    {
+      "code": "LCA",
+      "iso2": "LC",
+      "name": "St. Lucia",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 72.85
+    },
+    {
+      "code": "MAF",
+      "iso2": "MF",
+      "name": "St. Martin (French part)",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 80.44
+    },
+    {
+      "code": "VCT",
+      "iso2": "VC",
+      "name": "St. Vincent and the Grenadines",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 71.38
+    },
+    {
+      "code": "SDN",
+      "iso2": "SD",
+      "name": "Sudan",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 66.52
+    },
+    {
+      "code": "SUR",
+      "iso2": "SR",
+      "name": "Suriname",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 73.76
+    },
+    {
+      "code": "SWE",
+      "iso2": "SE",
+      "name": "Sweden",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 84.06
+    },
+    {
+      "code": "CHE",
+      "iso2": "CH",
+      "name": "Switzerland",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 84.41
+    },
+    {
+      "code": "SYR",
+      "iso2": "SY",
+      "name": "Syrian Arab Republic",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 72.56
+    },
+    {
+      "code": "TJK",
+      "iso2": "TJ",
+      "name": "Tajikistan",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 71.93
+    },
+    {
+      "code": "TZA",
+      "iso2": "TZ",
+      "name": "Tanzania",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 67.21
+    },
+    {
+      "code": "THA",
+      "iso2": "TH",
+      "name": "Thailand",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 76.56
+    },
+    {
+      "code": "TLS",
+      "iso2": "TL",
+      "name": "Timor-Leste",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 67.9
+    },
+    {
+      "code": "TGO",
+      "iso2": "TG",
+      "name": "Togo",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 62.94
+    },
+    {
+      "code": "TON",
+      "iso2": "TO",
+      "name": "Tonga",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 73.07
+    },
+    {
+      "code": "TTO",
+      "iso2": "TT",
+      "name": "Trinidad and Tobago",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 73.62
+    },
+    {
+      "code": "TUN",
+      "iso2": "TN",
+      "name": "Tunisia",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 76.71
+    },
+    {
+      "code": "TUR",
+      "iso2": "TR",
+      "name": "Turkiye",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 77.42
+    },
+    {
+      "code": "TKM",
+      "iso2": "TM",
+      "name": "Turkmenistan",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 70.2
+    },
+    {
+      "code": "TCA",
+      "iso2": "TC",
+      "name": "Turks and Caicos Islands",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 78.18
+    },
+    {
+      "code": "TUV",
+      "iso2": "TV",
+      "name": "Tuvalu",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 67.26
+    },
+    {
+      "code": "UGA",
+      "iso2": "UG",
+      "name": "Uganda",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 68.49
+    },
+    {
+      "code": "UKR",
+      "iso2": "UA",
+      "name": "Ukraine",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 74.69
+    },
+    {
+      "code": "ARE",
+      "iso2": "AE",
+      "name": "United Arab Emirates",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 83.07
+    },
+    {
+      "code": "GBR",
+      "iso2": "GB",
+      "name": "United Kingdom",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 81.39
+    },
+    {
+      "code": "USA",
+      "iso2": "US",
+      "name": "United States",
+      "region": "North America",
+      "year": 2024,
+      "expectancy": 78.89
+    },
+    {
+      "code": "URY",
+      "iso2": "UY",
+      "name": "Uruguay",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 78.29
+    },
+    {
+      "code": "UZB",
+      "iso2": "UZ",
+      "name": "Uzbekistan",
+      "region": "Europe & Central Asia",
+      "year": 2024,
+      "expectancy": 72.53
+    },
+    {
+      "code": "VUT",
+      "iso2": "VU",
+      "name": "Vanuatu",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 71.65
+    },
+    {
+      "code": "VEN",
+      "iso2": "VE",
+      "name": "Venezuela, RB",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 72.67
+    },
+    {
+      "code": "VNM",
+      "iso2": "VN",
+      "name": "Viet Nam",
+      "region": "East Asia & Pacific",
+      "year": 2024,
+      "expectancy": 74.74
+    },
+    {
+      "code": "VIR",
+      "iso2": "VI",
+      "name": "Virgin Islands (U.S.)",
+      "region": "Latin America & Caribbean ",
+      "year": 2024,
+      "expectancy": 80.77
+    },
+    {
+      "code": "PSE",
+      "iso2": "PS",
+      "name": "West Bank and Gaza",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 69.21
+    },
+    {
+      "code": "YEM",
+      "iso2": "YE",
+      "name": "Yemen, Rep.",
+      "region": "Middle East, North Africa, Afghanistan & Pakistan",
+      "year": 2024,
+      "expectancy": 69.44
+    },
+    {
+      "code": "ZMB",
+      "iso2": "ZM",
+      "name": "Zambia",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 66.53
+    },
+    {
+      "code": "ZWE",
+      "iso2": "ZW",
+      "name": "Zimbabwe",
+      "region": "Sub-Saharan Africa ",
+      "year": 2024,
+      "expectancy": 63.06
+    }
+  ]
+}

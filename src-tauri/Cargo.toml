@@ -1,0 +1,12 @@
+[package]
+name = "tokei"
+version = "0.1.3"
+description = "A desktop clock that shows time as percentages of your minute, hour, day, week, month, year, and life."
+authors = ["Jessenth"]
+edition = "2021"
+
+[build-dependencies]
+tauri-build = { version = "2", features = [] }
+
+[dependencies]
+tauri = { version = "2", features = [] }
